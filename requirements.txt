@@ -1,1 +1,30 @@
+# streamlit
+# streamlit
+# numpy
+# plotly
+# pandas
+# scipy
+# matplotlib
+# xarray
+# netCDF4
+# cartopy
+# shapely
+# pyproj
+# pydap
+# seaborn
+# pydeck
+# requests>=2.32
+# pyecharts>=2.0.5
+# streamlit-echarts>=0.4.0
+# Pillow
+# kaggle
 streamlit
+xarray
+numpy
+pandas
+matplotlib
+cartopy
+seaborn
+pydeck
+pydap
+netCDF4
